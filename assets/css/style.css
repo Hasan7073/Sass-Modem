@@ -272,6 +272,8 @@ padding-bottom: 148px;
     align-items: center;
 }
 .featured_contant{
+  width: 50%;
+  padding-right: 239px;
 }
 .featured_contant h1{
     color: #0F2137;
@@ -281,6 +283,7 @@ padding-bottom: 148px;
     font-weight: 400;
     line-height: 65px;
     letter-spacing: -0.5px;
+    padding-bottom: 28px;
 }
 .featured_contant p{
     color: #343D48;
@@ -290,5 +293,44 @@ padding-bottom: 148px;
     font-weight: 400;
     line-height: 35px;
 }
+.featured_image{
+  width: 50%;
+}
 
 /*====end_featured_spce=======*/
+
+/*====start_working_spce========*/
+
+.working_space{
+
+}
+.container{
+
+}
+.working_space_heading{
+
+}
+.working_space_heading h1{
+
+}
+.working_space_heading h4{
+
+}
+.working_space_area{
+
+}
+
+.ws_gallary{
+
+}
+.ws_gallary img{
+
+}
+
+.ws_button{
+
+}
+.ws_button a{
+
+}
+/*====end_working_spce========*/
