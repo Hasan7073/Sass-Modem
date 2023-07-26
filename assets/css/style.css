@@ -352,11 +352,11 @@ padding-bottom: 18px;
 }
 
 .ws_button{
-  display: flex;
+display: flex;
     border-radius: 5px;
     background: #EDF0F2;
     justify-content: space-around;
-    width: 1360px;
+    width: 1385px;
 }
 .ws_button a{
 color: #0F2137;
